@@ -1,0 +1,109 @@
+{
+    "item": {
+        "1": {
+            "name": "New Item 1",
+            "price": 6
+        },
+        "2": {
+            "name": "Item 2",
+            "price": "10€"
+        },
+        "4": {
+            "name": "Item 4",
+            "price": "25€"
+        },
+        "5": {
+            "name": "PS4 Pro",
+            "price": "399€"
+        },
+        "6": {
+            "name": "Item 6",
+            "price": "150€"
+        },
+        "7": {
+            "name": "Item 7",
+            "price": "1€"
+        }
+    },
+    "user": {
+        "1": {
+            "name": "New Item 1",
+            "price": 6
+        },
+        "2": {
+            "name": "Nathan Hervouet",
+            "age": 20
+        },
+        "3": {
+            "name": "Alexis Vivier",
+            "age": 19
+        },
+        "4": {
+            "name": "Thomas Mahe",
+            "age": 20
+        },
+        "5": {
+            "name": "Antonin Douillard",
+            "age": 20
+        },
+        "6": {
+            "name": "Lukas Presencia",
+            "age": 21
+        },
+        "7": {
+            "name": "Geoffrey Moreau",
+            "age": 20
+        },
+        "8": {
+            "name": "Andrei Radocea",
+            "age": 20
+        }
+    },
+    "list": {
+        "0": {
+            "name": "List5",
+            "user": 7,
+            "item": [
+                6,
+                1,
+                2
+            ]
+        },
+        "1": {
+            "name": "List75554",
+            "user": 7,
+            "item": [
+                6,
+                1,
+                2
+            ]
+        },
+        "2": {
+            "name": "List69",
+            "user": 2,
+            "item": [
+                2,
+                1,
+                6
+            ]
+        },
+        "3": {
+            "name": "list3",
+            "user": 5,
+            "item": [
+                1,
+                2,
+                4
+            ]
+        },
+        "4": {
+            "name": "List24",
+            "user": 2,
+            "item": [
+                2,
+                1,
+                6
+            ]
+        }
+    }
+}
